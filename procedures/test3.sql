@@ -1,0 +1,1 @@
+EXEC GetTopStudentsBySubject @Subject = 'math';

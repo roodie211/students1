@@ -1,0 +1,1 @@
+EXEC GetAvgScoresByMathLevel @MathLevel = 'beginner';

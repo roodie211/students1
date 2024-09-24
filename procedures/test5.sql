@@ -1,0 +1,1 @@
+EXEC GetAvgScoreByStudyHours @StudyHours = 39;

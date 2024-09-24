@@ -1,0 +1,2 @@
+UPDATE exams
+SET age = ABS(CHECKSUM(NEWID()) % 7) + 16;

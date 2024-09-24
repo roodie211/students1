@@ -1,0 +1,1 @@
+EXEC GetStudentsByCriteria @Gender = 'female', @Age = 16;
